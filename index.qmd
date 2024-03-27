@@ -1,5 +1,5 @@
 ---
-title: "幻灯片"
+title: "发言"
 listing:
   contents: slides
   sort: "date desc"

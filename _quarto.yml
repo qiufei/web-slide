@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: qiufei.site/slide
+  site-url: https://qiufei.site/slide
   title: "presentations"
   navbar:
     right:
