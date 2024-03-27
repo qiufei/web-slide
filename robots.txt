@@ -1,1 +1,1 @@
-Sitemap: qiufei.site/slide/sitemap.xml
+Sitemap: https://qiufei.site/slide/sitemap.xml
