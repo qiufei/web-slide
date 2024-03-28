@@ -1,5 +1,5 @@
 ---
-title: "糖不卷"
+title: "课件区"
 image: profile.jpg
 about:
   template: jolla
@@ -23,8 +23,6 @@ email-obfuscation: javascript
 ---
 
 
-
-我是邱飞，这是我的个人网站。
 
 这里放的是我的课件。
 
