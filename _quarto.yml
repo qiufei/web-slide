@@ -3,18 +3,37 @@ project:
 
 website:
   site-url: https://qiufei.site/slide
-  title: "presentations"
+  # 设置网站图标
+  favicon: profile.jpg
+  title: "本节的内容"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      # - text: R讲义
+      #   href: https://qiufei.site/rbook
+      # - icon: github
+      #   href: https://github.com/
+  page-footer:
+    left: ↑ [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
+    center: 
+      - text: "邱飞 &copy; 2008-2024"
+      - text: "浙ICP备 2024072710号-1"
+        href: "https://beian.miit.gov.cn"
+      - text: "浙公网安备 33021202002511号"
+        href: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33021202002511"
+    right:
+      - icon: envelope-at-fill
+        href: mailto:hfutqiufei@163.com
+      # - text: ←
 format:
   html:
-    theme: cosmo
+    theme:
+     light: journal
+     dark: cyborg
     css: styles.css
+
+execute:
+  freeze: auto
 
 
 
