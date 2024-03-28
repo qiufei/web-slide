@@ -1,5 +1,5 @@
 ---
-title: "课件区"
+title: "课件：讲授课程的课件"
 image: profile.jpg
 about:
   template: jolla
