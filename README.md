@@ -1,3 +1,3 @@
-# 个人网站
+# slide
 
-我的个人网站。
+qiufei.site/slide
