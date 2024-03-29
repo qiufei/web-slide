@@ -25,5 +25,3 @@ email-obfuscation: javascript
 
 
 这里放的是我的课件。
-
-test
