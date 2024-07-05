@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "课件：讲授课程的课件",
-    "section": "",
-    "text": "这里放的是我的课件。"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "简介",
     "section": "",
     "text": "我是邱飞，这是我的个人网站，\n用于分享一些数据分析文章，还有个人的记录和资料。"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "课件：讲授课程的课件",
+    "section": "",
+    "text": "这里放的是我的课件。"
   }
 ]
