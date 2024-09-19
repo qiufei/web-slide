@@ -13,13 +13,15 @@ website:
         href: https://qiufei.site
     right:
       - text: R课件
-        href: https://qiufei.site/slide_r
+        href: https://qiufei.site/web-slide-r
       - text: python课件
-        href: https://qiufei.site/slide_python
+        href: https://qiufei.site/web-slide-python
       - text: supermind课件
-        href: https://qiufei.site/slide_supermind
+        href: https://qiufei.site/web-slide-supermind
       - text: izhi课件
-        href: https://qiufei.site/slide_izhi
+        href: https://qiufei.site/web-slide-izhi
+      - text: 营销课件
+        href: https://qiufei.site/web-slide-marketing
       # - icon: github
       #   href: https://github.com/
       - about.qmd
