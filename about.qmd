@@ -22,7 +22,7 @@
 # email-obfuscation: javascript
 
 metadata-files:
-  - https://raw.githubusercontent.com/qiufei/qiufei.github.io/refs/heads/main/about.yml
+  - https://github.com/qiufei/qiufei.github.io/blob/main/about.yml
 ---
 <!-- 
 我是邱飞，这是我的个人网站，
